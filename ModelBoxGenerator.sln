@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35111.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelBoxGenerator", "src\ModelBoxGenerator\ModelBoxGenerator.csproj", "{94FABC9F-0CD0-49D2-98DA-69E0AD3B367A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CascLib", "src\CascLib\CascLib\CascLib.csproj", "{984ADADD-DB18-4100-8937-DDF5ACCDE5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94FABC9F-0CD0-49D2-98DA-69E0AD3B367A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FABC9F-0CD0-49D2-98DA-69E0AD3B367A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FABC9F-0CD0-49D2-98DA-69E0AD3B367A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FABC9F-0CD0-49D2-98DA-69E0AD3B367A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984ADADD-DB18-4100-8937-DDF5ACCDE5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984ADADD-DB18-4100-8937-DDF5ACCDE5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984ADADD-DB18-4100-8937-DDF5ACCDE5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984ADADD-DB18-4100-8937-DDF5ACCDE5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A337BBF-45A8-4246-91AF-A3DE53EF55B5}
+	EndGlobalSection
+EndGlobal
