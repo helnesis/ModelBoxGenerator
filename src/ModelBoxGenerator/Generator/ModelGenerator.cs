@@ -6,7 +6,7 @@ using System.Text.Json;
 namespace ModelBoxGenerator.Generator
 {
     /// <summary>
-    /// Read M2 file, parse bounding boxes and vertices box.
+    /// Read M2 and WMO files to get their bounding boxes.
     /// </summary>
     internal sealed class ModelGenerator : IGenerator
     {
